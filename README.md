@@ -38,3 +38,7 @@ Si el monto no cumple con los requisitos en cada categoria , no se aplica descue
 8-El if Else capta el monto total para ver si cumple el requisito de aplicar el descuento , de lo contrario no se aplica , SI APLICA ,pasa el caso de switch
 9-El Switch se parece mucho al if else de cumplir una condicion , pero este ya tiene la condiciones ya establecida / configurada , e aplicara el descuento a cada 
 categoria correspondiente.
+EXTRA:
+10-Se uso la IA para :
+-auxiliarme en temas de agregar las fotos con la finalidad de quebrar el programa cada movimiento o busqueda de herramienta y ayuda para decorar el windown form app (diseño) un 40% (solo para que indique que uno debe tocar y asi evitar arruinar el codigo /forma )
+-En la Ayuda del boton para que haga el calculo , ya que se tenia que ir a "Eventos" ya que no funciona con solo poner el codigo , se tiene que configurar en propiedades.
